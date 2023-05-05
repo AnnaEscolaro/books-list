@@ -1,4 +1,4 @@
-// const { books } = require('../data/library');
+// const { books } = require('./data/library');
 
 const formatedAuthorNamesBirth = () => {
   // escreva seu código aqui
