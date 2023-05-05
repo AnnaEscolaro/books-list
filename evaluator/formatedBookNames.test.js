@@ -1,4 +1,4 @@
-const { formatedBookNames } = require('../formatedBooksNames');
+const { formatedBookNames } = require('../formatedBookNames');
 const { resultFormatedBooksName } = require('./expects/expects');
 
 describe('1 - Implemente a função `formatedBookNames`', () => {
