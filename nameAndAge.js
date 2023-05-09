@@ -10,6 +10,4 @@ const nameAndAge = () => books.map((book) => {
   return nameAndAgeObj;
 }).sort((a, b) => a.age - b.age);
 
-console.log(nameAndAge());
-
 module.exports = { nameAndAge };
